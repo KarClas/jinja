@@ -1,3 +1,5 @@
+<div align="center"><img src="https://raw.githubusercontent.com/pallets/jinja/refs/heads/stable/docs/_static/jinja-name.svg" alt="" height="150"></div>
+
 # Jinja
 
 Jinja is a fast, expressive, extensible templating engine. Special
